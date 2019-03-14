@@ -1,0 +1,13 @@
+com\hexaware\FTP105\integration\test\CustomerRestTest.class
+com\hexaware\FTP105\integration\test\CommonUtil.class
+com\hexaware\FTP105\integration\test\Orders.class
+com\hexaware\FTP105\model\OStatus.class
+com\hexaware\FTP105\integration\test\Customer.class
+com\hexaware\FTP105\integration\test\Menu.class
+com\hexaware\FTP105\model\Vendor.class
+com\hexaware\FTP105\integration\test\VendorRestTest.class
+com\hexaware\FTP105\integration\test\OrdersRestTest.class
+com\hexaware\FTP105\integration\test\MenuRestTest.class
+com\hexaware\FTP105\integration\test\Vendor.class
+com\hexaware\FTP105\model\Orders.class
+com\hexaware\FTP105\model\Menu.class
